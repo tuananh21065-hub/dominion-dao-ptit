@@ -1,0 +1,14 @@
+{
+  "contract": "DominionDAO",
+  "address": "0xc0d84dDD6a83C1A8f88b807CEFfc3bbcd69C957a",
+  "chainId": 11155111,
+  "deployer": "0xEFD761D03616c3512501FC0D9B0Eba6300D8984e",
+  "transactionHash": "0x7f401dcdeafd41f8212e184cd3b53aa4bb42364525c38bc629828b7835906804",
+  "blockNumber": 11900681,
+  "gasUsed": "14175156",
+  "effectiveGasPriceWei": "1000000000",
+  "feeWei": "14175156000000000",
+  "feeEth": "0.014175156",
+  "bytecodeLength": 8888,
+  "deployedAt": "2026-10-12T18:27:24.861Z"
+}
